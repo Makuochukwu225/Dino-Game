@@ -152,8 +152,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/Makuochukwu225)
-- **YouTube**: [Your Channel](https://www.youtube.com/@JaxLabs308)
+- **GitHub**: [@Makuochukwu225](https://github.com/Makuochukwu225)
+- **YouTube**: [Jaxlabs](https://www.youtube.com/@JaxLabs308)
 - **Email**: officialrrye5@gmail.com
 
 ---
